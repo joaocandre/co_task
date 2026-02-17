@@ -1,0 +1,18 @@
+# --------------------
+# A:
+PLACE 0,0,NORTH
+MOVE
+REPORT
+# --------------------
+# B:
+PLACE 0,0,NORTH
+LEFT
+REPORT
+# ----------------
+# C:
+PLACE 1,2,EAST
+MOVE
+MOVE
+LEFT
+MOVE
+REPORT

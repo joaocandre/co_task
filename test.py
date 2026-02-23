@@ -16,7 +16,7 @@ __email__ = "jandre@posteo.net"
 __date__ = 2026
 
 
-class TestStringMethods(unittest.TestCase):
+class ToyRobotTest(unittest.TestCase):
     """
     Class implementing unit testing for the Robot task
     """
